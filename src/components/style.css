@@ -1,0 +1,22 @@
+body {
+    background-color: #DDDDDD;
+}
+
+.navbar-brand {
+    margin-left: 3rem;
+}
+
+#formulario {
+    background-color: #CCCCCC;
+    margin-top: 2rem;
+    padding: 2rem;
+}
+
+label {
+    margin-top: 0.1rem;
+    margin-bottom: 0.1rem;
+}
+
+#button {
+    margin-top: 1rem;
+}
